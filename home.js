@@ -1,0 +1,1 @@
+// Home page logic with Google Sheets integration
